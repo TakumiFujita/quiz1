@@ -1,0 +1,40 @@
+footer {
+  margin:20px 0 10px 0;
+}
+
+.row div {
+  border: solid 1px #eee;
+  text-align: center;
+}
+
+.q-box {
+  height: 255px;
+  font-size: 133px;
+  line-height: 255px;
+  background-color:#fff;
+}
+
+.q-box:hover {
+  background-color:#7fffd4;
+}
+
+.m-on {
+  color: black;
+}
+
+.m-on:hover {
+  color:#1e90ff;
+  text-decoration: none;
+}
+.exp {
+  display:none;
+}
+
+.qd-group {
+  margin-top:30px;
+}
+
+.qd-title {
+  margin-bottom:5px;
+  font-weight:bold;
+}
